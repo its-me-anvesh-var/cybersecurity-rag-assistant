@@ -1,0 +1,17 @@
+# Environment
+.env
+*.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# ChromaDB — rebuilt locally on setup
+vectorstore/
+
+# Test artifacts
+.pytest_cache/
+EOF
