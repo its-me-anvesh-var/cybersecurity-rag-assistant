@@ -1,0 +1,38 @@
+# NIST Cybersecurity Framework
+
+The NIST Cybersecurity Framework provides a policy framework of computer security guidance for organizations.
+
+## Core Functions
+
+**Identify (ID)**: Develop organizational understanding to manage cybersecurity risk.
+- Asset Management (ID.AM)
+- Business Environment (ID.BE)
+- Governance (ID.GV)
+- Risk Assessment (ID.RA)
+- Risk Management Strategy (ID.RM)
+- Supply Chain Risk Management (ID.SC)
+
+**Protect (PR)**: Develop and implement appropriate safeguards.
+- Identity Management and Access Control (PR.AC)
+- Awareness and Training (PR.AT)
+- Data Security (PR.DS)
+- Information Protection Processes (PR.IP)
+- Maintenance (PR.MA)
+- Protective Technology (PR.PT)
+
+**Detect (DE)**: Develop and implement activities to identify cybersecurity events.
+- Anomalies and Events (DE.AE)
+- Security Continuous Monitoring (DE.CM)
+- Detection Processes (DE.DP)
+
+**Respond (RS)**: Develop and implement activities to take action regarding detected cybersecurity incidents.
+- Response Planning (RS.RP)
+- Communications (RS.CO)
+- Analysis (RS.AN)
+- Mitigation (RS.MI)
+- Improvements (RS.IM)
+
+**Recover (RC)**: Develop and implement activities to maintain resilience.
+- Recovery Planning (RC.RP)
+- Improvements (RC.IM)
+- Communications (RC.CO)

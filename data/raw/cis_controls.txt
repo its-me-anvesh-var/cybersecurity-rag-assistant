@@ -1,0 +1,65 @@
+# CIS Critical Security Controls
+
+The CIS Controls are a prioritized set of actions to protect organizations from cyber attack vectors.
+
+## Implementation Groups
+
+**IG1 (Basic Cyber Hygiene)**: Essential cyber hygiene for all organizations
+**IG2 (Enterprise Security)**: Builds on IG1 for organizations with dedicated cybersecurity staff
+**IG3 (Sensitive Data Protection)**: For organizations protecting highly sensitive data
+
+## Top 18 Controls
+
+**Control 1: Inventory and Control of Enterprise Assets**
+Actively manage (inventory, track, correct) all enterprise assets connected to the infrastructure.
+
+**Control 2: Inventory and Control of Software Assets**
+Actively manage (inventory, track, correct) all software on the network so unauthorized software is found and prevented.
+
+**Control 3: Data Protection**
+Develop processes to identify, classify, securely handle, retain, and dispose of data.
+
+**Control 4: Secure Configuration**
+Establish and maintain secure configurations for hardware, software, and network devices.
+
+**Control 5: Account Management**
+Use processes and tools to assign administrative privileges and track access to systems.
+
+**Control 6: Access Control Management**
+Use processes and tools to track access to enterprise assets and user actions.
+
+**Control 7: Continuous Vulnerability Management**
+Develop a plan to assess and remediate weaknesses continuously.
+
+**Control 8: Audit Log Management**
+Collect, alert, review, and retain audit logs of security-relevant events.
+
+**Control 9: Email and Web Browser Protections**
+Improve defenses and capabilities to identify and block threats coming through email and web browsers.
+
+**Control 10: Malware Defenses**
+Prevent or control installation, spread, and execution of malicious applications and code.
+
+**Control 11: Data Recovery**
+Establish and maintain data recovery practices to ensure data availability.
+
+**Control 12: Network Infrastructure Management**
+Establish, implement, and manage enterprise devices and software in network infrastructure.
+
+**Control 13: Network Monitoring and Defense**
+Operate processes and tooling to establish and maintain comprehensive network monitoring.
+
+**Control 14: Security Awareness and Skills Training**
+Establish security awareness program for all staff and specialized training for specific roles.
+
+**Control 15: Service Provider Management**
+Develop process to evaluate service providers who hold sensitive data or responsibility for assets.
+
+**Control 16: Application Software Security**
+Manage the security life cycle of in-house developed, hosted, or acquired software.
+
+**Control 17: Incident Response Management**
+Establish processes to develop and maintain incident response capabilities.
+
+**Control 18: Penetration Testing**
+Test the effectiveness of defenses by simulating attacks.
